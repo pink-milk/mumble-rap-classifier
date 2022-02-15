@@ -38,9 +38,6 @@ for result in response.results:
 a_file.close()
 
 
-#export GOOGLE_APPLICATION_CREDENTIALS="/Users/mymac/Desktop/GMU2021_2022/CS484/Final_Proj/mumblerap-18db374cbb2f.json"
-
-
 #Ffmpeg, Acapella extractor, Mp3cut.net, Python (Matplotlib, Seaborn, nltk, SoundEx, SciPy, PyDub, NumPy, Pandas) and Power BI.
 
 #1) download .mp3
